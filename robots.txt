@@ -1,8 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://spxexpressbelopa.com/sitemap.xml
-
-Disallow: /cgi-bin/
-Disallow: /admin/
-Disallow: /private/
-
